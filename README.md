@@ -14,6 +14,7 @@ The creative commons license (non commercial)
 
 
 LoRa - Lavori in corso.pdf
+
 A presentation about LoRa and of the board,
 held in Arduino home (in italian).
 Preliminary description of the project (some pictures are here).
@@ -25,7 +26,12 @@ LoRa_32.zip
 Eagle CAD files of the PIC32 board
 
 
-Schematics
+Ponlib.lbr
+A Eagle CAD library with custom symbols
+used in this project
+
+
+Schematics.pdf
 Eagle CAD schematics of the PIC32 board in PDF
 (for people without Eagle CAD)
 
