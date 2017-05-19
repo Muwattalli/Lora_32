@@ -20,7 +20,7 @@ Preliminary description of the project (some pictures are here).
 
 B14.pdf
 - A technical documentation about the board (in english)
-(pictures are here).
+(pictures are here). Test software still to be uploaded (be patient !)
 
 
 LoRa_32.zip
