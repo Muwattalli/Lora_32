@@ -17,8 +17,10 @@ LoRa - Lavori in corso.pdf
 - A presentation about LoRa and of the board,
 held in Arduino home (in italian).
 Preliminary description of the project (some pictures are here).
-Full documentation (quite complex), next to come.
-Be patient !
+
+B14.pdf
+- A technical documentation about the board (in english)
+(pictures are here).
 
 
 LoRa_32.zip
